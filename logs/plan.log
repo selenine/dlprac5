@@ -1,0 +1,32 @@
+flat 3e-4: KID x 1000 = 12.312
+flat 4e-4: KID x 1000 = 8.208
+flat 5e-4: KID x 1000 = 5.158
+winner so far: flat 5e-4
+queued:
+lab-05-hhtt85-lr-flat-7.5e-4
+--- plan.log restart marker
+flat 3e-4: KID x 1000 = 12.312
+flat 4e-4: KID x 1000 = 8.208
+flat 5e-4: KID x 1000 = 5.158
+winner so far: flat 5e-4
+flat 7.5e-4: KID x 1000 = 2.796
+winner so far: flat 7.5e-4
+queued:
+lab-05-hhtt85-lr-flat-1e-3
+--- plan.log restart marker (1.5e-3 rung added)
+flat 3e-4: KID x 1000 = 12.312
+flat 4e-4: KID x 1000 = 8.208
+flat 5e-4: KID x 1000 = 5.158
+winner so far: flat 5e-4
+flat 7.5e-4: KID x 1000 = 2.796
+winner so far: flat 7.5e-4
+flat 1e-3: KID x 1000 = 3.115
+winner: flat 7.5e-4
+queued:
+lab-05-hhtt85-lr-flat-7.5e-4-seed2
+lab-05-hhtt85-arch-g-heavy-lr-flat-7.5e-4
+lab-05-hhtt85-arch-deeper-lr-flat-7.5e-4
+lab-05-hhtt85-arch-shallow-wide-lr-flat-7.5e-4
+lab-05-hhtt85-arch-expand3-lr-flat-7.5e-4
+lab-05-hhtt85-arch-lowres-heavy-lr-flat-7.5e-4
+gan_sweep: started

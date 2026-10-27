@@ -1,0 +1,12 @@
+gan_train finished; starting lab-05-hhtt85-mp-dw
+wandb: [wandb.login()] Loaded credentials for https://api.forge.coreweave.com from /root/.netrc.
+wandb: Currently logged in as: yasaswi-rallabandi (yasaswi-rallabandi-durham-university) to https://api.forge.coreweave.com. Use `wandb login --relogin` to force relogin
+wandb: setting up run 1ni3j5lf
+wandb: Tracking run with wandb version 0.31.0
+wandb: Run data is saved locally in /workspace/wandb/run-20261026_190452-1ni3j5lf
+wandb: Run `wandb offline` to turn off syncing.
+wandb: Syncing run still-rain-10
+wandb: ⭐️ View project at https://forge.coreweave.com/wandb/yasaswi-rallabandi-durham-university/r3gan-cifar-horses
+wandb: 🚀 View run at https://forge.coreweave.com/wandb/yasaswi-rallabandi-durham-university/r3gan-cifar-horses/runs/1ni3j5lf
+    1 / 10000: G 0.8779  D 0.6648  R1 0.010  R2 0.010  D(x)-D(G(z)) +0.246  lr 2.00e-03  gamma 0.0500  0.2 it/s
+  100 / 10000: G 3.2015  D 0.1488  R1 0.291  R2 0.115  D(x)-D(G(z)) +2.893  lr 2.00e-03  gamma 0.0500  4.0 it/s

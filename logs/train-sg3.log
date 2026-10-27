@@ -1,0 +1,150 @@
+wandb: [wandb.login()] Loaded credentials for https://api.forge.coreweave.com from /root/.netrc.
+wandb: Currently logged in as: yasaswi-rallabandi (yasaswi-rallabandi-durham-university) to https://api.forge.coreweave.com. Use `wandb login --relogin` to force relogin
+wandb: setting up run wrfa2w4r
+wandb: Tracking run with wandb version 0.31.0
+wandb: Run data is saved locally in /workspace/wandb/run-20261026_180146-wrfa2w4r
+wandb: Run `wandb offline` to turn off syncing.
+wandb: Syncing run dazzling-dream-4
+wandb: ⭐️ View project at https://forge.coreweave.com/wandb/yasaswi-rallabandi-durham-university/r3gan-cifar-horses
+wandb: 🚀 View run at https://forge.coreweave.com/wandb/yasaswi-rallabandi-durham-university/r3gan-cifar-horses/runs/wrfa2w4r
+    1 / 10000: G 0.5687  D 1.1072  R1 0.004  R2 0.004  D(x)-D(G(z)) -0.685  lr 2.00e-04  gamma 0.0500  blur 2.00  ada p 0.000 (r_t +0.00)  0.3 it/s
+  100 / 10000: G 2.9370  D 0.3709  R1 0.637  R2 0.355  D(x)-D(G(z)) +2.210  lr 2.00e-04  gamma 0.0500  blur 1.87  ada p 0.044 (r_t +0.79)  6.4 it/s
+  200 / 10000: G 1.4408  D 0.4722  R1 0.093  R2 0.141  D(x)-D(G(z)) +0.913  lr 2.00e-04  gamma 0.0500  blur 1.74  ada p 0.046 (r_t +0.59)  7.2 it/s
+  300 / 10000: G 1.4351  D 0.4804  R1 0.204  R2 0.227  D(x)-D(G(z)) +0.971  lr 2.00e-04  gamma 0.0499  blur 1.62  ada p 0.049 (r_t +0.60)  7.6 it/s
+  400 / 10000: G 1.3558  D 0.4811  R1 0.213  R2 0.201  D(x)-D(G(z)) +0.730  lr 1.99e-04  gamma 0.0498  blur 1.49  ada p 0.072 (r_t +0.32)  7.7 it/s
+  500 / 10000: G 1.7046  D 0.3296  R1 0.469  R2 0.264  D(x)-D(G(z)) +1.279  lr 1.99e-04  gamma 0.0497  blur 1.36  ada p 0.074 (r_t +0.79)  7.9 it/s
+  600 / 10000: G 2.7655  D 0.3069  R1 0.594  R2 0.939  D(x)-D(G(z)) +1.606  lr 1.99e-04  gamma 0.0496  blur 1.23  ada p 0.108 (r_t +0.79)  7.9 it/s
+  700 / 10000: G 2.2746  D 0.3171  R1 0.767  R2 0.678  D(x)-D(G(z)) +1.581  lr 1.98e-04  gamma 0.0495  blur 1.10  ada p 0.156 (r_t +0.80)  8.0 it/s
+  800 / 10000: G 1.7719  D 0.5944  R1 0.391  R2 0.474  D(x)-D(G(z)) -0.042  lr 1.98e-04  gamma 0.0493  blur 0.98  ada p 0.205 (r_t +0.49)  8.0 it/s
+  900 / 10000: G 2.1681  D 0.4011  R1 0.991  R2 0.887  D(x)-D(G(z)) +0.846  lr 1.97e-04  gamma 0.0491  blur 0.85  ada p 0.264 (r_t +0.73)  8.1 it/s
+ 1000 / 10000: G 1.2492  D 0.5879  R1 0.596  R2 0.524  D(x)-D(G(z)) -0.199  lr 1.96e-04  gamma 0.0489  blur 0.72  ada p 0.287 (r_t +0.54)  8.1 it/s
+ 1100 / 10000: G 1.2275  D 0.5096  R1 0.512  R2 0.352  D(x)-D(G(z)) +1.202  lr 1.96e-04  gamma 0.0487  blur 0.59  ada p 0.259 (r_t +0.52)  8.1 it/s
+ 1200 / 10000: G 1.3186  D 0.5712  R1 0.620  R2 0.532  D(x)-D(G(z)) +1.380  lr 1.95e-04  gamma 0.0484  blur 0.46  ada p 0.246 (r_t +0.50)  8.1 it/s
+ 1300 / 10000: G 1.7639  D 0.4609  R1 0.652  R2 0.501  D(x)-D(G(z)) +1.254  lr 1.94e-04  gamma 0.0482  blur 0.34  ada p 0.248 (r_t +0.57)  8.1 it/s
+ 1400 / 10000: G 1.6935  D 0.4696  R1 0.667  R2 0.445  D(x)-D(G(z)) +1.840  lr 1.93e-04  gamma 0.0479  blur 0.21  ada p 0.246 (r_t +0.52)  8.2 it/s
+ 1500 / 10000: G 1.6164  D 0.3999  R1 0.987  R2 0.816  D(x)-D(G(z)) +1.126  lr 1.92e-04  gamma 0.0476  blur 0.08  ada p 0.269 (r_t +0.68)  8.2 it/s
+ 1600 / 10000: G 2.1286  D 0.3732  R1 1.024  R2 0.541  D(x)-D(G(z)) +2.389  lr 1.91e-04  gamma 0.0472  blur 0.00  ada p 0.297 (r_t +0.73)  8.2 it/s
+ 1700 / 10000: G 1.6470  D 0.4491  R1 0.686  R2 0.593  D(x)-D(G(z)) +1.882  lr 1.90e-04  gamma 0.0469  blur 0.00  ada p 0.310 (r_t +0.63)  8.2 it/s
+ 1800 / 10000: G 1.3131  D 0.5227  R1 0.694  R2 0.511  D(x)-D(G(z)) +0.813  lr 1.88e-04  gamma 0.0465  blur 0.00  ada p 0.323 (r_t +0.55)  8.2 it/s
+ 1900 / 10000: G 1.5690  D 0.4946  R1 1.653  R2 0.869  D(x)-D(G(z)) +1.089  lr 1.87e-04  gamma 0.0461  blur 0.00  ada p 0.315 (r_t +0.56)  8.2 it/s
+ 2000 / 10000: G 1.8232  D 0.4550  R1 1.057  R2 0.850  D(x)-D(G(z)) +1.358  lr 1.86e-04  gamma 0.0457  blur 0.00  ada p 0.353 (r_t +0.62)  8.2 it/s
+ 2100 / 10000: G 1.4995  D 0.5041  R1 1.077  R2 0.891  D(x)-D(G(z)) +0.552  lr 1.84e-04  gamma 0.0453  blur 0.00  ada p 0.371 (r_t +0.64)  8.2 it/s
+ 2200 / 10000: G 1.4423  D 0.4926  R1 1.045  R2 0.667  D(x)-D(G(z)) +1.801  lr 1.83e-04  gamma 0.0448  blur 0.00  ada p 0.374 (r_t +0.58)  8.3 it/s
+ 2300 / 10000: G 1.7884  D 0.4006  R1 0.835  R2 0.885  D(x)-D(G(z)) +0.727  lr 1.81e-04  gamma 0.0444  blur 0.00  ada p 0.397 (r_t +0.62)  8.3 it/s
+ 2400 / 10000: G 1.4988  D 0.5367  R1 0.795  R2 0.763  D(x)-D(G(z)) +0.972  lr 1.80e-04  gamma 0.0439  blur 0.00  ada p 0.435 (r_t +0.68)  8.3 it/s
+ 2500 / 10000: G 1.3262  D 0.4858  R1 0.704  R2 0.689  D(x)-D(G(z)) +0.180  lr 1.78e-04  gamma 0.0434  blur 0.00  ada p 0.468 (r_t +0.62)  8.3 it/s
+ 2600 / 10000: G 1.3847  D 0.3795  R1 0.774  R2 0.815  D(x)-D(G(z)) +1.266  lr 1.76e-04  gamma 0.0429  blur 0.00  ada p 0.481 (r_t +0.71)  8.3 it/s
+ 2700 / 10000: G 1.7677  D 0.4488  R1 1.461  R2 0.752  D(x)-D(G(z)) +1.075  lr 1.75e-04  gamma 0.0424  blur 0.00  ada p 0.499 (r_t +0.70)  8.3 it/s
+ 2800 / 10000: G 1.3827  D 0.4913  R1 1.018  R2 0.799  D(x)-D(G(z)) +0.799  lr 1.73e-04  gamma 0.0418  blur 0.00  ada p 0.532 (r_t +0.64)  8.3 it/s
+ 2900 / 10000: G 1.6622  D 0.4530  R1 1.099  R2 0.900  D(x)-D(G(z)) +1.214  lr 1.71e-04  gamma 0.0413  blur 0.00  ada p 0.556 (r_t +0.69)  8.3 it/s
+ 3000 / 10000: G 1.7127  D 0.4392  R1 1.061  R2 0.497  D(x)-D(G(z)) +2.729  lr 1.69e-04  gamma 0.0407  blur 0.00  ada p 0.594 (r_t +0.64)  8.3 it/s
+ 3100 / 10000: G 1.6206  D 0.4515  R1 0.965  R2 0.705  D(x)-D(G(z)) +0.707  lr 1.67e-04  gamma 0.0402  blur 0.00  ada p 0.632 (r_t +0.63)  8.3 it/s
+ 3200 / 10000: G 1.5407  D 0.4824  R1 0.945  R2 0.879  D(x)-D(G(z)) +0.197  lr 1.65e-04  gamma 0.0396  blur 0.00  ada p 0.660 (r_t +0.64)  8.3 it/s
+ 3300 / 10000: G 1.6749  D 0.4497  R1 1.092  R2 0.668  D(x)-D(G(z)) +0.628  lr 1.63e-04  gamma 0.0390  blur 0.00  ada p 0.668 (r_t +0.63)  8.3 it/s
+ 3400 / 10000: G 1.4524  D 0.4600  R1 0.667  R2 0.572  D(x)-D(G(z)) +1.086  lr 1.61e-04  gamma 0.0383  blur 0.00  ada p 0.676 (r_t +0.57)  8.3 it/s
+ 3500 / 10000: G 1.4086  D 0.4968  R1 0.838  R2 0.619  D(x)-D(G(z)) +0.547  lr 1.59e-04  gamma 0.0377  blur 0.00  ada p 0.684 (r_t +0.51)  8.3 it/s
+ 3600 / 10000: G 1.4847  D 0.4094  R1 1.135  R2 0.877  D(x)-D(G(z)) +0.930  lr 1.57e-04  gamma 0.0371  blur 0.00  ada p 0.732 (r_t +0.68)  8.3 it/s
+ 3700 / 10000: G 2.1375  D 0.3486  R1 1.170  R2 0.437  D(x)-D(G(z)) +2.404  lr 1.55e-04  gamma 0.0364  blur 0.00  ada p 0.750 (r_t +0.67)  8.3 it/s
+ 3800 / 10000: G 1.3178  D 0.4143  R1 0.857  R2 0.761  D(x)-D(G(z)) +0.642  lr 1.53e-04  gamma 0.0358  blur 0.00  ada p 0.788 (r_t +0.66)  8.3 it/s
+ 3900 / 10000: G 1.8228  D 0.3376  R1 1.312  R2 0.627  D(x)-D(G(z)) +1.772  lr 1.50e-04  gamma 0.0351  blur 0.00  ada p 0.796 (r_t +0.56)  8.3 it/s
+ 4000 / 10000: G 2.0384  D 0.3613  R1 1.770  R2 0.618  D(x)-D(G(z)) +1.019  lr 1.48e-04  gamma 0.0345  blur 0.00  ada p 0.829 (r_t +0.68)  8.3 it/s
+ 4100 / 10000: G 2.0248  D 0.3614  R1 1.424  R2 0.748  D(x)-D(G(z)) +2.787  lr 1.46e-04  gamma 0.0338  blur 0.00  ada p 0.863 (r_t +0.68)  8.3 it/s
+ 4200 / 10000: G 1.6441  D 0.5179  R1 1.568  R2 0.602  D(x)-D(G(z)) +0.905  lr 1.44e-04  gamma 0.0331  blur 0.00  ada p 0.911 (r_t +0.63)  8.3 it/s
+ 4300 / 10000: G 1.8028  D 0.3577  R1 1.381  R2 0.616  D(x)-D(G(z)) +2.253  lr 1.41e-04  gamma 0.0324  blur 0.00  ada p 0.924 (r_t +0.73)  8.3 it/s
+ 4400 / 10000: G 1.6414  D 0.4267  R1 1.218  R2 0.572  D(x)-D(G(z)) +1.583  lr 1.39e-04  gamma 0.0317  blur 0.00  ada p 0.973 (r_t +0.65)  8.3 it/s
+ 4500 / 10000: G 1.5818  D 0.4527  R1 1.467  R2 0.783  D(x)-D(G(z)) +0.214  lr 1.37e-04  gamma 0.0310  blur 0.00  ada p 0.986 (r_t +0.69)  8.3 it/s
+ 4600 / 10000: G 1.6838  D 0.5800  R1 1.869  R2 0.635  D(x)-D(G(z)) +0.710  lr 1.34e-04  gamma 0.0303  blur 0.00  ada p 0.997 (r_t +0.59)  8.3 it/s
+ 4700 / 10000: G 1.9627  D 0.4271  R1 1.954  R2 0.891  D(x)-D(G(z)) +1.360  lr 1.32e-04  gamma 0.0296  blur 0.00  ada p 1.000 (r_t +0.69)  8.3 it/s
+ 4800 / 10000: G 1.7100  D 0.4474  R1 1.187  R2 0.579  D(x)-D(G(z)) +1.622  lr 1.30e-04  gamma 0.0289  blur 0.00  ada p 1.000 (r_t +0.64)  8.3 it/s
+ 4900 / 10000: G 2.0198  D 0.4304  R1 1.522  R2 1.112  D(x)-D(G(z)) +0.546  lr 1.27e-04  gamma 0.0282  blur 0.00  ada p 1.000 (r_t +0.69)  8.3 it/s
+ 5000 / 10000: G 2.0098  D 0.3128  R1 1.641  R2 0.895  D(x)-D(G(z)) +1.796  lr 1.25e-04  gamma 0.0275  blur 0.00  ada p 1.000 (r_t +0.75)  8.3 it/s
+ 5100 / 10000: G 2.0312  D 0.3998  R1 1.958  R2 0.544  D(x)-D(G(z)) +1.905  lr 1.23e-04  gamma 0.0268  blur 0.00  ada p 1.000 (r_t +0.66)  8.3 it/s
+ 5200 / 10000: G 1.6356  D 0.4699  R1 1.633  R2 0.773  D(x)-D(G(z)) +0.562  lr 1.20e-04  gamma 0.0261  blur 0.00  ada p 1.000 (r_t +0.63)  8.3 it/s
+ 5300 / 10000: G 1.8654  D 0.4275  R1 1.997  R2 0.949  D(x)-D(G(z)) +0.941  lr 1.18e-04  gamma 0.0254  blur 0.00  ada p 1.000 (r_t +0.68)  8.3 it/s
+ 5400 / 10000: G 1.4776  D 0.4801  R1 1.279  R2 0.756  D(x)-D(G(z)) +0.265  lr 1.16e-04  gamma 0.0247  blur 0.00  ada p 0.992 (r_t +0.52)  8.3 it/s
+ 5500 / 10000: G 2.9582  D 0.2015  R1 1.846  R2 1.118  D(x)-D(G(z)) +3.066  lr 1.13e-04  gamma 0.0240  blur 0.00  ada p 1.000 (r_t +0.82)  8.3 it/s
+ 5600 / 10000: G 1.6507  D 0.4554  R1 1.141  R2 0.934  D(x)-D(G(z)) +0.876  lr 1.11e-04  gamma 0.0233  blur 0.00  ada p 1.000 (r_t +0.65)  8.3 it/s
+ 5700 / 10000: G 1.9187  D 0.3581  R1 1.755  R2 1.013  D(x)-D(G(z)) +2.120  lr 1.09e-04  gamma 0.0226  blur 0.00  ada p 1.000 (r_t +0.70)  8.3 it/s
+ 5800 / 10000: G 1.7913  D 0.4076  R1 1.639  R2 1.143  D(x)-D(G(z)) +1.215  lr 1.06e-04  gamma 0.0219  blur 0.00  ada p 1.000 (r_t +0.62)  8.3 it/s
+ 5900 / 10000: G 2.1185  D 0.4080  R1 1.802  R2 1.328  D(x)-D(G(z)) +1.576  lr 1.04e-04  gamma 0.0212  blur 0.00  ada p 1.000 (r_t +0.73)  8.3 it/s
+ 6000 / 10000: G 1.9217  D 0.3885  R1 1.813  R2 1.086  D(x)-D(G(z)) +1.721  lr 1.02e-04  gamma 0.0205  blur 0.00  ada p 1.000 (r_t +0.67)  8.3 it/s
+ 6100 / 10000: G 1.6940  D 0.4837  R1 2.621  R2 0.820  D(x)-D(G(z)) +1.235  lr 9.96e-05  gamma 0.0199  blur 0.00  ada p 1.000 (r_t +0.61)  8.3 it/s
+ 6200 / 10000: G 1.8843  D 0.3587  R1 2.016  R2 1.191  D(x)-D(G(z)) +1.179  lr 9.74e-05  gamma 0.0192  blur 0.00  ada p 0.997 (r_t +0.58)  8.3 it/s
+ 6300 / 10000: G 1.5958  D 0.4266  R1 1.442  R2 1.146  D(x)-D(G(z)) +0.593  lr 9.52e-05  gamma 0.0186  blur 0.00  ada p 0.992 (r_t +0.60)  8.3 it/s
+ 6400 / 10000: G 1.5829  D 0.5339  R1 1.838  R2 1.326  D(x)-D(G(z)) +1.289  lr 9.31e-05  gamma 0.0179  blur 0.00  ada p 1.000 (r_t +0.70)  8.3 it/s
+ 6500 / 10000: G 2.0998  D 0.3282  R1 2.395  R2 1.214  D(x)-D(G(z)) +1.810  lr 9.10e-05  gamma 0.0173  blur 0.00  ada p 1.000 (r_t +0.75)  8.3 it/s
+ 6600 / 10000: G 1.7198  D 0.3832  R1 1.507  R2 1.450  D(x)-D(G(z)) +1.299  lr 8.89e-05  gamma 0.0167  blur 0.00  ada p 1.000 (r_t +0.66)  8.3 it/s
+ 6700 / 10000: G 2.2264  D 0.3216  R1 3.045  R2 1.302  D(x)-D(G(z)) +1.746  lr 8.68e-05  gamma 0.0160  blur 0.00  ada p 1.000 (r_t +0.70)  8.3 it/s
+ 6800 / 10000: G 1.4746  D 0.7310  R1 3.612  R2 1.485  D(x)-D(G(z)) +0.567  lr 8.48e-05  gamma 0.0154  blur 0.00  ada p 1.000 (r_t +0.68)  8.3 it/s
+ 6900 / 10000: G 1.1427  D 0.5421  R1 1.946  R2 1.468  D(x)-D(G(z)) +0.339  lr 8.28e-05  gamma 0.0149  blur 0.00  ada p 0.995 (r_t +0.55)  8.3 it/s
+ 7000 / 10000: G 1.6588  D 0.4968  R1 3.865  R2 1.255  D(x)-D(G(z)) +1.266  lr 8.09e-05  gamma 0.0143  blur 0.00  ada p 1.000 (r_t +0.60)  8.3 it/s
+ 7100 / 10000: G 2.0696  D 0.4295  R1 2.043  R2 1.162  D(x)-D(G(z)) +1.510  lr 7.90e-05  gamma 0.0137  blur 0.00  ada p 0.997 (r_t +0.54)  8.3 it/s
+ 7200 / 10000: G 1.9872  D 0.4299  R1 3.603  R2 1.607  D(x)-D(G(z)) +1.873  lr 7.72e-05  gamma 0.0132  blur 0.00  ada p 1.000 (r_t +0.70)  8.3 it/s
+ 7300 / 10000: G 1.8621  D 0.4631  R1 3.356  R2 2.143  D(x)-D(G(z)) +1.943  lr 7.54e-05  gamma 0.0126  blur 0.00  ada p 1.000 (r_t +0.67)  8.3 it/s
+ 7400 / 10000: G 1.7510  D 0.5313  R1 3.563  R2 1.863  D(x)-D(G(z)) +1.461  lr 7.37e-05  gamma 0.0121  blur 0.00  ada p 0.997 (r_t +0.56)  8.3 it/s
+ 7500 / 10000: G 1.5739  D 0.4339  R1 2.936  R2 2.108  D(x)-D(G(z)) +1.402  lr 7.20e-05  gamma 0.0116  blur 0.00  ada p 1.000 (r_t +0.73)  8.3 it/s
+ 7600 / 10000: G 2.2759  D 0.3384  R1 3.019  R2 1.260  D(x)-D(G(z)) +1.773  lr 7.03e-05  gamma 0.0111  blur 0.00  ada p 1.000 (r_t +0.68)  8.3 it/s
+ 7700 / 10000: G 1.7652  D 0.4704  R1 4.130  R2 2.125  D(x)-D(G(z)) +0.865  lr 6.87e-05  gamma 0.0106  blur 0.00  ada p 0.997 (r_t +0.66)  8.3 it/s
+ 7800 / 10000: G 1.9868  D 0.4671  R1 5.251  R2 2.471  D(x)-D(G(z)) +1.551  lr 6.72e-05  gamma 0.0102  blur 0.00  ada p 1.000 (r_t +0.66)  8.3 it/s
+ 7900 / 10000: G 1.8122  D 0.3975  R1 2.963  R2 1.580  D(x)-D(G(z)) +1.350  lr 6.57e-05  gamma 0.0097  blur 0.00  ada p 0.985 (r_t +0.65)  8.3 it/s
+ 8000 / 10000: G 1.5227  D 0.4450  R1 4.960  R2 2.444  D(x)-D(G(z)) +1.133  lr 6.43e-05  gamma 0.0093  blur 0.00  ada p 1.000 (r_t +0.72)  8.3 it/s
+ 8100 / 10000: G 1.8368  D 0.3891  R1 3.567  R2 2.508  D(x)-D(G(z)) +1.439  lr 6.30e-05  gamma 0.0089  blur 0.00  ada p 0.990 (r_t +0.66)  8.3 it/s
+ 8200 / 10000: G 1.7361  D 0.4838  R1 4.289  R2 2.379  D(x)-D(G(z)) +1.059  lr 6.17e-05  gamma 0.0085  blur 0.00  ada p 1.000 (r_t +0.62)  8.3 it/s
+ 8300 / 10000: G 1.7342  D 0.5589  R1 3.488  R2 2.294  D(x)-D(G(z)) +0.990  lr 6.04e-05  gamma 0.0081  blur 0.00  ada p 0.997 (r_t +0.62)  8.3 it/s
+ 8400 / 10000: G 1.7304  D 0.4325  R1 4.235  R2 3.294  D(x)-D(G(z)) +1.509  lr 5.93e-05  gamma 0.0078  blur 0.00  ada p 1.000 (r_t +0.62)  8.3 it/s
+ 8500 / 10000: G 1.5673  D 0.4965  R1 5.030  R2 2.235  D(x)-D(G(z)) +1.350  lr 5.82e-05  gamma 0.0075  blur 0.00  ada p 0.990 (r_t +0.55)  8.3 it/s
+ 8600 / 10000: G 1.5288  D 0.5106  R1 4.683  R2 2.959  D(x)-D(G(z)) +0.902  lr 5.71e-05  gamma 0.0071  blur 0.00  ada p 0.995 (r_t +0.54)  8.3 it/s
+ 8700 / 10000: G 1.1993  D 0.6568  R1 5.491  R2 2.787  D(x)-D(G(z)) +0.128  lr 5.62e-05  gamma 0.0069  blur 0.00  ada p 0.974 (r_t +0.58)  8.3 it/s
+ 8800 / 10000: G 1.9805  D 0.4057  R1 5.914  R2 3.618  D(x)-D(G(z)) +1.872  lr 5.53e-05  gamma 0.0066  blur 0.00  ada p 0.987 (r_t +0.66)  8.3 it/s
+ 8900 / 10000: G 1.8888  D 0.4650  R1 4.454  R2 2.404  D(x)-D(G(z)) +1.481  lr 5.44e-05  gamma 0.0063  blur 0.00  ada p 0.995 (r_t +0.53)  8.3 it/s
+ 9000 / 10000: G 1.2908  D 0.4960  R1 3.209  R2 3.480  D(x)-D(G(z)) +0.532  lr 5.37e-05  gamma 0.0061  blur 0.00  ada p 0.987 (r_t +0.46)  8.3 it/s
+ 9100 / 10000: G 1.7730  D 0.4706  R1 4.529  R2 2.868  D(x)-D(G(z)) +1.255  lr 5.30e-05  gamma 0.0059  blur 0.00  ada p 0.990 (r_t +0.53)  8.3 it/s
+ 9200 / 10000: G 1.2136  D 0.5232  R1 4.804  R2 3.307  D(x)-D(G(z)) +0.513  lr 5.24e-05  gamma 0.0057  blur 0.00  ada p 0.962 (r_t +0.59)  8.3 it/s
+ 9300 / 10000: G 2.1148  D 0.3467  R1 9.084  R2 3.954  D(x)-D(G(z)) +1.834  lr 5.18e-05  gamma 0.0055  blur 0.00  ada p 0.969 (r_t +0.67)  8.3 it/s
+ 9400 / 10000: G 1.8123  D 0.5278  R1 7.235  R2 3.786  D(x)-D(G(z)) +0.936  lr 5.13e-05  gamma 0.0054  blur 0.00  ada p 0.962 (r_t +0.59)  8.3 it/s
+ 9500 / 10000: G 1.4897  D 0.5073  R1 8.298  R2 3.775  D(x)-D(G(z)) +1.250  lr 5.09e-05  gamma 0.0053  blur 0.00  ada p 0.985 (r_t +0.58)  8.3 it/s
+ 9600 / 10000: G 1.6437  D 0.4699  R1 7.477  R2 3.434  D(x)-D(G(z)) +1.849  lr 5.06e-05  gamma 0.0052  blur 0.00  ada p 0.977 (r_t +0.62)  8.3 it/s
+ 9700 / 10000: G 1.5997  D 0.4771  R1 7.149  R2 3.134  D(x)-D(G(z)) +1.229  lr 5.03e-05  gamma 0.0051  blur 0.00  ada p 0.969 (r_t +0.53)  8.3 it/s
+ 9800 / 10000: G 1.5290  D 0.4649  R1 3.417  R2 2.572  D(x)-D(G(z)) +0.888  lr 5.01e-05  gamma 0.0050  blur 0.00  ada p 0.977 (r_t +0.50)  8.3 it/s
+ 9900 / 10000: G 1.4482  D 0.4745  R1 5.705  R2 4.110  D(x)-D(G(z)) +0.871  lr 5.00e-05  gamma 0.0050  blur 0.00  ada p 0.964 (r_t +0.61)  8.3 it/s
+10000 / 10000: G 1.4951  D 0.4238  R1 6.656  R2 4.475  D(x)-D(G(z)) +1.158  lr 5.00e-05  gamma 0.0050  blur 0.00  ada p 0.946 (r_t +0.55)  8.3 it/s
+KID x 1000: 207.083
+{
+  "kid": 0.20708346366882324,
+  "samples": 1000
+}
+Submission: /workspace/lab-05-hhtt85-sg3.zip
+wandb: updating run metadata
+wandb: uploading media/images/samples_10000_fc7bec118687067d85ec.png; uploading media/images/final_samples_10000_e618007bd6b17f307817.png; uploading output.log; uploading wandb-summary.json; uploading config.yaml
+wandb: uploading media/images/final_samples_10000_e618007bd6b17f307817.png
+wandb: 
+wandb: Run history:
+wandb:              ada/p ▁▁▂▂▃▂▂▃▃▃▃▃▃▄▅▆▆▆▇▇████████████████████
+wandb:             ada/rt ▅▅▁█▇▅▄▆▆▇▆▆▆▅▄▆▆▆▆▆▆▇▆▅▅▇▅▇▅▇▆▆▆▆▅▄▄▅▆▄
+wandb:          kid_x1000 ▁
+wandb:        logits/fake ▇▁▅▅▅▆▅▅▄▆▆▆▅█▇▇▆▇▆▇▆█▆▅▅▅▅▆▅▆▅▆▅▆▅▆▅▅▅▅
+wandb:        logits/real ▂▃▄▁▄▄▃▃▂▄▄▄▃▅█▅▃▄▄▃▃▃▃▄▃▄▃▄▂▂▁▄▄▄▃▂▂▄▁▂
+wandb:   loss/adversarial ▄▁▅▄▄▃▄▃▄▂▃▄▄▃▁▂▃▃▅▃▁▄▄▃▄▅▁▂▁█▄▄▄▅▇▅▂▅▄▄
+wandb: loss/discriminator █▁▁▁▄▃▂▂▂▂▃▃▂▂▃▂▃▂▁▃▂▂▂▂▂▂▂▃▁▅▂▁▂▂▃▄▂▃▂▂
+wandb:     loss/generator ▁▄▄█▆▃▃▅▅▄▅▅▃▄▄▄▃▅▆▅▅▄▅▅▄▄▃▆▅▆▅▄▃▅▅▃▆▅▄▄
+wandb:         penalty/r1 ▁▁▂▁▁▂▂▂▂▂▂▂▂▂▂▃▂▂▂▃▃▂▂▂▃▂▃▂▄▃▄▄▅▆▃█▇▇▄▆
+wandb:         penalty/r2 ▁▁▁▁▂▂▂▂▂▂▂▂▁▂▂▂▂▁▂▂▂▂▂▃▃▃▃▃▄▄▅▄▄▅▆▆▇▇▆█
+wandb:                 +5 ...
+wandb: 
+wandb: Run summary:
+wandb:              ada/p 0.94624
+wandb:             ada/rt 0.54688
+wandb:          kid_x1000 207.08346
+wandb:        logits/fake -0.8226
+wandb:        logits/real 0.33551
+wandb:   loss/adversarial 0.39596
+wandb: loss/discriminator 0.42379
+wandb:     loss/generator 1.49506
+wandb:         penalty/r1 6.65621
+wandb:         penalty/r2 4.4749
+wandb:                 +5 ...
+wandb: 
+wandb: 🚀 View run dazzling-dream-4 at: https://forge.coreweave.com/wandb/yasaswi-rallabandi-durham-university/r3gan-cifar-horses/runs/wrfa2w4r
+wandb: ⭐️ View project at: https://forge.coreweave.com/wandb/yasaswi-rallabandi-durham-university/r3gan-cifar-horses
+wandb: Synced 5 W&B file(s), 12 media file(s), 0 artifact file(s) and 0 other file(s)
+wandb: Find logs at: ./wandb/run-20261026_180146-wrfa2w4r/logs

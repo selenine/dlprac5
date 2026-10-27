@@ -1,0 +1,148 @@
+wandb: [wandb.login()] Loaded credentials for https://api.forge.coreweave.com from /root/.netrc.
+wandb: Currently logged in as: yasaswi-rallabandi (yasaswi-rallabandi-durham-university) to https://api.forge.coreweave.com. Use `wandb login --relogin` to force relogin
+wandb: Tracking run with wandb version 0.31.0
+wandb: Run data is saved locally in /workspace/wandb/run-20261026_173057-55geddz1
+wandb: Run `wandb offline` to turn off syncing.
+wandb: Syncing run upbeat-silence-2
+wandb: ⭐️ View project at https://forge.coreweave.com/wandb/yasaswi-rallabandi-durham-university/r3gan-cifar-horses
+wandb: 🚀 View run at https://forge.coreweave.com/wandb/yasaswi-rallabandi-durham-university/r3gan-cifar-horses/runs/55geddz1
+    1 / 10000: G 0.8404  D 0.6493  R1 0.009  R2 0.009  D(x)-D(G(z)) +0.147  lr 2.00e-04  gamma 0.0500  0.3 it/s
+  100 / 10000: G 1.7455  D 0.2940  R1 0.065  R2 0.068  D(x)-D(G(z)) +1.341  lr 2.00e-04  gamma 0.0500  10.1 it/s
+  200 / 10000: G 2.6422  D 0.1417  R1 0.197  R2 0.178  D(x)-D(G(z)) +2.385  lr 2.00e-04  gamma 0.0500  12.1 it/s
+  300 / 10000: G 3.2809  D 0.1819  R1 0.359  R2 0.241  D(x)-D(G(z)) +3.220  lr 2.00e-04  gamma 0.0499  13.0 it/s
+  400 / 10000: G 4.0174  D 0.0965  R1 0.963  R2 0.505  D(x)-D(G(z)) +3.833  lr 1.99e-04  gamma 0.0498  13.4 it/s
+  500 / 10000: G 2.8694  D 0.2048  R1 0.580  R2 0.416  D(x)-D(G(z)) +2.082  lr 1.99e-04  gamma 0.0497  13.7 it/s
+  600 / 10000: G 2.5660  D 0.1710  R1 0.496  R2 0.276  D(x)-D(G(z)) +2.442  lr 1.99e-04  gamma 0.0496  13.9 it/s
+  700 / 10000: G 3.5592  D 0.3316  R1 1.864  R2 1.248  D(x)-D(G(z)) -0.631  lr 1.98e-04  gamma 0.0495  14.1 it/s
+  800 / 10000: G 1.5288  D 0.4070  R1 0.411  R2 0.554  D(x)-D(G(z)) +1.036  lr 1.98e-04  gamma 0.0493  14.2 it/s
+  900 / 10000: G 1.4816  D 0.4049  R1 0.727  R2 0.631  D(x)-D(G(z)) +1.022  lr 1.97e-04  gamma 0.0491  14.3 it/s
+ 1000 / 10000: G 2.3941  D 0.5011  R1 0.614  R2 0.549  D(x)-D(G(z)) +0.198  lr 1.96e-04  gamma 0.0489  14.4 it/s
+ 1100 / 10000: G 1.3904  D 0.5161  R1 0.357  R2 0.337  D(x)-D(G(z)) -0.211  lr 1.96e-04  gamma 0.0487  14.4 it/s
+ 1200 / 10000: G 1.7166  D 0.4747  R1 0.345  R2 0.333  D(x)-D(G(z)) +1.697  lr 1.95e-04  gamma 0.0484  14.5 it/s
+ 1300 / 10000: G 1.4364  D 0.5061  R1 0.351  R2 0.380  D(x)-D(G(z)) -0.366  lr 1.94e-04  gamma 0.0482  14.5 it/s
+ 1400 / 10000: G 1.4502  D 0.7574  R1 0.336  R2 0.364  D(x)-D(G(z)) +0.685  lr 1.93e-04  gamma 0.0479  14.6 it/s
+ 1500 / 10000: G 1.8833  D 0.4251  R1 0.580  R2 0.611  D(x)-D(G(z)) -0.004  lr 1.92e-04  gamma 0.0476  14.6 it/s
+ 1600 / 10000: G 1.6306  D 0.5734  R1 0.652  R2 0.678  D(x)-D(G(z)) +1.116  lr 1.91e-04  gamma 0.0472  14.6 it/s
+ 1700 / 10000: G 1.6456  D 0.5590  R1 0.552  R2 0.540  D(x)-D(G(z)) +0.736  lr 1.90e-04  gamma 0.0469  14.6 it/s
+ 1800 / 10000: G 1.5179  D 0.5251  R1 0.613  R2 0.614  D(x)-D(G(z)) +0.852  lr 1.88e-04  gamma 0.0465  14.7 it/s
+ 1900 / 10000: G 1.3736  D 0.5064  R1 0.637  R2 0.632  D(x)-D(G(z)) +1.080  lr 1.87e-04  gamma 0.0461  14.7 it/s
+ 2000 / 10000: G 1.5518  D 0.4807  R1 0.618  R2 0.628  D(x)-D(G(z)) +1.240  lr 1.86e-04  gamma 0.0457  14.7 it/s
+ 2100 / 10000: G 1.8145  D 0.5164  R1 0.894  R2 0.795  D(x)-D(G(z)) -0.777  lr 1.84e-04  gamma 0.0453  14.7 it/s
+ 2200 / 10000: G 1.7146  D 0.3931  R1 0.995  R2 0.927  D(x)-D(G(z)) +1.537  lr 1.83e-04  gamma 0.0448  14.7 it/s
+ 2300 / 10000: G 1.5409  D 0.4091  R1 0.985  R2 0.984  D(x)-D(G(z)) +0.959  lr 1.81e-04  gamma 0.0444  14.7 it/s
+ 2400 / 10000: G 1.5282  D 0.4564  R1 0.873  R2 0.804  D(x)-D(G(z)) +0.581  lr 1.80e-04  gamma 0.0439  14.8 it/s
+ 2500 / 10000: G 1.4119  D 0.6178  R1 0.743  R2 0.664  D(x)-D(G(z)) -0.230  lr 1.78e-04  gamma 0.0434  14.8 it/s
+ 2600 / 10000: G 1.7822  D 0.4751  R1 1.112  R2 1.126  D(x)-D(G(z)) +1.683  lr 1.76e-04  gamma 0.0429  14.8 it/s
+ 2700 / 10000: G 1.7081  D 0.4214  R1 1.078  R2 1.122  D(x)-D(G(z)) +0.985  lr 1.75e-04  gamma 0.0424  14.8 it/s
+ 2800 / 10000: G 1.7257  D 0.4709  R1 1.113  R2 1.118  D(x)-D(G(z)) +0.577  lr 1.73e-04  gamma 0.0418  14.8 it/s
+ 2900 / 10000: G 1.8180  D 0.4100  R1 1.142  R2 1.159  D(x)-D(G(z)) +0.724  lr 1.71e-04  gamma 0.0413  14.8 it/s
+ 3000 / 10000: G 1.8436  D 0.3974  R1 1.185  R2 1.250  D(x)-D(G(z)) +2.467  lr 1.69e-04  gamma 0.0407  14.8 it/s
+ 3100 / 10000: G 2.1859  D 0.3913  R1 1.252  R2 1.135  D(x)-D(G(z)) +0.458  lr 1.67e-04  gamma 0.0402  14.8 it/s
+ 3200 / 10000: G 1.7628  D 0.4657  R1 1.285  R2 1.308  D(x)-D(G(z)) +0.594  lr 1.65e-04  gamma 0.0396  14.8 it/s
+ 3300 / 10000: G 2.1452  D 0.4521  R1 1.318  R2 1.385  D(x)-D(G(z)) +2.368  lr 1.63e-04  gamma 0.0390  14.8 it/s
+ 3400 / 10000: G 1.6827  D 0.4234  R1 1.349  R2 1.284  D(x)-D(G(z)) +0.934  lr 1.61e-04  gamma 0.0383  14.8 it/s
+ 3500 / 10000: G 2.4782  D 0.4487  R1 1.305  R2 1.236  D(x)-D(G(z)) +3.041  lr 1.59e-04  gamma 0.0377  14.8 it/s
+ 3600 / 10000: G 2.0365  D 0.5045  R1 1.455  R2 1.409  D(x)-D(G(z)) +0.770  lr 1.57e-04  gamma 0.0371  14.8 it/s
+ 3700 / 10000: G 2.0502  D 0.4130  R1 1.637  R2 1.603  D(x)-D(G(z)) +1.157  lr 1.55e-04  gamma 0.0364  14.9 it/s
+ 3800 / 10000: G 2.0099  D 0.4717  R1 1.384  R2 1.337  D(x)-D(G(z)) +0.608  lr 1.53e-04  gamma 0.0358  14.9 it/s
+ 3900 / 10000: G 2.0069  D 0.5409  R1 1.635  R2 1.610  D(x)-D(G(z)) -1.250  lr 1.50e-04  gamma 0.0351  14.9 it/s
+ 4000 / 10000: G 2.2032  D 0.3946  R1 1.684  R2 1.646  D(x)-D(G(z)) +2.586  lr 1.48e-04  gamma 0.0345  14.9 it/s
+ 4100 / 10000: G 1.8297  D 0.5028  R1 1.723  R2 1.657  D(x)-D(G(z)) +1.350  lr 1.46e-04  gamma 0.0338  14.9 it/s
+ 4200 / 10000: G 2.4746  D 0.3889  R1 1.864  R2 1.867  D(x)-D(G(z)) +3.088  lr 1.44e-04  gamma 0.0331  14.9 it/s
+ 4300 / 10000: G 2.0651  D 0.4243  R1 1.591  R2 1.613  D(x)-D(G(z)) +1.430  lr 1.41e-04  gamma 0.0324  14.9 it/s
+ 4400 / 10000: G 2.2999  D 0.4103  R1 1.818  R2 1.743  D(x)-D(G(z)) +2.299  lr 1.39e-04  gamma 0.0317  14.9 it/s
+ 4500 / 10000: G 1.8323  D 0.5090  R1 1.650  R2 1.737  D(x)-D(G(z)) +0.361  lr 1.37e-04  gamma 0.0310  14.9 it/s
+ 4600 / 10000: G 2.4420  D 0.3261  R1 1.707  R2 1.759  D(x)-D(G(z)) +1.178  lr 1.34e-04  gamma 0.0303  14.9 it/s
+ 4700 / 10000: G 2.3393  D 0.4427  R1 1.863  R2 1.904  D(x)-D(G(z)) +1.192  lr 1.32e-04  gamma 0.0296  14.9 it/s
+ 4800 / 10000: G 2.3003  D 0.3066  R1 1.972  R2 1.928  D(x)-D(G(z)) +1.236  lr 1.30e-04  gamma 0.0289  14.9 it/s
+ 4900 / 10000: G 2.2347  D 0.3809  R1 2.096  R2 1.994  D(x)-D(G(z)) +0.477  lr 1.27e-04  gamma 0.0282  14.9 it/s
+ 5000 / 10000: G 2.4542  D 0.3381  R1 2.039  R2 2.047  D(x)-D(G(z)) +1.418  lr 1.25e-04  gamma 0.0275  14.9 it/s
+ 5100 / 10000: G 2.1578  D 0.4244  R1 2.070  R2 2.123  D(x)-D(G(z)) +1.038  lr 1.23e-04  gamma 0.0268  14.9 it/s
+ 5200 / 10000: G 2.1848  D 0.3406  R1 2.162  R2 2.123  D(x)-D(G(z)) +1.249  lr 1.20e-04  gamma 0.0261  14.9 it/s
+ 5300 / 10000: G 2.5678  D 0.4672  R1 2.219  R2 2.153  D(x)-D(G(z)) +0.330  lr 1.18e-04  gamma 0.0254  14.9 it/s
+ 5400 / 10000: G 2.2942  D 0.3740  R1 2.428  R2 2.542  D(x)-D(G(z)) +1.010  lr 1.16e-04  gamma 0.0247  14.9 it/s
+ 5500 / 10000: G 2.2228  D 0.3437  R1 2.384  R2 2.335  D(x)-D(G(z)) +1.630  lr 1.13e-04  gamma 0.0240  14.9 it/s
+ 5600 / 10000: G 2.1664  D 0.3498  R1 2.580  R2 2.408  D(x)-D(G(z)) +1.078  lr 1.11e-04  gamma 0.0233  14.9 it/s
+ 5700 / 10000: G 2.2561  D 0.3763  R1 2.716  R2 2.670  D(x)-D(G(z)) -0.429  lr 1.09e-04  gamma 0.0226  14.9 it/s
+ 5800 / 10000: G 2.4339  D 0.3269  R1 2.734  R2 2.627  D(x)-D(G(z)) +1.952  lr 1.06e-04  gamma 0.0219  14.9 it/s
+ 5900 / 10000: G 2.4481  D 0.2925  R1 2.744  R2 2.609  D(x)-D(G(z)) +1.529  lr 1.04e-04  gamma 0.0212  14.9 it/s
+ 6000 / 10000: G 2.5284  D 0.4071  R1 3.015  R2 2.803  D(x)-D(G(z)) +1.018  lr 1.02e-04  gamma 0.0205  14.9 it/s
+ 6100 / 10000: G 2.3587  D 0.4277  R1 2.886  R2 2.835  D(x)-D(G(z)) +1.319  lr 9.96e-05  gamma 0.0199  14.9 it/s
+ 6200 / 10000: G 2.3338  D 0.3165  R1 3.032  R2 2.795  D(x)-D(G(z)) +1.568  lr 9.74e-05  gamma 0.0192  14.9 it/s
+ 6300 / 10000: G 2.6972  D 0.2922  R1 3.168  R2 2.946  D(x)-D(G(z)) +2.775  lr 9.52e-05  gamma 0.0186  14.9 it/s
+ 6400 / 10000: G 2.7610  D 0.2877  R1 3.321  R2 3.189  D(x)-D(G(z)) +2.391  lr 9.31e-05  gamma 0.0179  14.9 it/s
+ 6500 / 10000: G 2.3274  D 0.3736  R1 3.481  R2 3.246  D(x)-D(G(z)) +0.432  lr 9.10e-05  gamma 0.0173  14.9 it/s
+ 6600 / 10000: G 2.4291  D 0.3113  R1 3.545  R2 3.572  D(x)-D(G(z)) +3.035  lr 8.89e-05  gamma 0.0167  14.9 it/s
+ 6700 / 10000: G 2.7173  D 0.2673  R1 3.523  R2 3.557  D(x)-D(G(z)) +3.450  lr 8.68e-05  gamma 0.0160  14.9 it/s
+ 6800 / 10000: G 2.6886  D 0.3123  R1 3.730  R2 3.805  D(x)-D(G(z)) +2.950  lr 8.48e-05  gamma 0.0154  14.9 it/s
+ 6900 / 10000: G 2.6194  D 0.4684  R1 3.586  R2 3.656  D(x)-D(G(z)) +2.080  lr 8.28e-05  gamma 0.0149  14.9 it/s
+ 7000 / 10000: G 2.5893  D 0.3331  R1 3.846  R2 3.695  D(x)-D(G(z)) +1.444  lr 8.09e-05  gamma 0.0143  14.9 it/s
+ 7100 / 10000: G 2.2780  D 0.3459  R1 3.928  R2 3.810  D(x)-D(G(z)) +2.070  lr 7.90e-05  gamma 0.0137  14.9 it/s
+ 7200 / 10000: G 2.7234  D 0.3169  R1 4.191  R2 4.085  D(x)-D(G(z)) +1.831  lr 7.72e-05  gamma 0.0132  14.9 it/s
+ 7300 / 10000: G 2.4480  D 0.3426  R1 4.648  R2 4.551  D(x)-D(G(z)) +1.040  lr 7.54e-05  gamma 0.0126  14.9 it/s
+ 7400 / 10000: G 2.2136  D 0.4235  R1 4.598  R2 4.772  D(x)-D(G(z)) +1.692  lr 7.37e-05  gamma 0.0121  14.9 it/s
+ 7500 / 10000: G 2.5500  D 0.3756  R1 4.285  R2 3.997  D(x)-D(G(z)) +0.264  lr 7.20e-05  gamma 0.0116  14.9 it/s
+ 7600 / 10000: G 2.5262  D 0.2855  R1 4.920  R2 4.535  D(x)-D(G(z)) +2.347  lr 7.03e-05  gamma 0.0111  14.9 it/s
+ 7700 / 10000: G 2.9917  D 0.2831  R1 4.756  R2 4.573  D(x)-D(G(z)) +1.557  lr 6.87e-05  gamma 0.0106  14.9 it/s
+ 7800 / 10000: G 2.7290  D 0.2958  R1 4.983  R2 4.753  D(x)-D(G(z)) +2.876  lr 6.72e-05  gamma 0.0102  14.9 it/s
+ 7900 / 10000: G 2.5211  D 0.3206  R1 5.176  R2 4.868  D(x)-D(G(z)) +1.336  lr 6.57e-05  gamma 0.0097  14.9 it/s
+ 8000 / 10000: G 2.5675  D 0.3630  R1 5.325  R2 5.095  D(x)-D(G(z)) +4.009  lr 6.43e-05  gamma 0.0093  14.9 it/s
+ 8100 / 10000: G 2.5916  D 0.3112  R1 6.013  R2 5.699  D(x)-D(G(z)) +3.552  lr 6.30e-05  gamma 0.0089  14.9 it/s
+ 8200 / 10000: G 2.6255  D 0.2858  R1 5.793  R2 5.427  D(x)-D(G(z)) +0.877  lr 6.17e-05  gamma 0.0085  14.9 it/s
+ 8300 / 10000: G 2.6543  D 0.2782  R1 6.257  R2 5.639  D(x)-D(G(z)) +2.279  lr 6.04e-05  gamma 0.0081  14.9 it/s
+ 8400 / 10000: G 3.2530  D 0.3644  R1 6.384  R2 6.434  D(x)-D(G(z)) +2.833  lr 5.93e-05  gamma 0.0078  14.9 it/s
+ 8500 / 10000: G 2.8923  D 0.2487  R1 6.726  R2 6.492  D(x)-D(G(z)) +2.951  lr 5.82e-05  gamma 0.0075  14.9 it/s
+ 8600 / 10000: G 2.5925  D 0.3409  R1 6.775  R2 6.246  D(x)-D(G(z)) +0.937  lr 5.71e-05  gamma 0.0071  14.9 it/s
+ 8700 / 10000: G 2.6923  D 0.2615  R1 6.851  R2 6.450  D(x)-D(G(z)) +1.751  lr 5.62e-05  gamma 0.0069  14.9 it/s
+ 8800 / 10000: G 2.7321  D 0.2901  R1 7.027  R2 6.527  D(x)-D(G(z)) +1.966  lr 5.53e-05  gamma 0.0066  14.9 it/s
+ 8900 / 10000: G 2.7663  D 0.3434  R1 7.155  R2 7.357  D(x)-D(G(z)) +3.901  lr 5.44e-05  gamma 0.0063  14.9 it/s
+ 9000 / 10000: G 2.4609  D 0.3615  R1 7.900  R2 7.439  D(x)-D(G(z)) +2.592  lr 5.37e-05  gamma 0.0061  14.9 it/s
+ 9100 / 10000: G 2.3365  D 0.3726  R1 7.803  R2 7.887  D(x)-D(G(z)) +3.322  lr 5.30e-05  gamma 0.0059  14.9 it/s
+ 9200 / 10000: G 3.0388  D 0.3208  R1 7.866  R2 7.382  D(x)-D(G(z)) +2.089  lr 5.24e-05  gamma 0.0057  14.9 it/s
+ 9300 / 10000: G 2.6968  D 0.2659  R1 7.887  R2 7.496  D(x)-D(G(z)) +1.654  lr 5.18e-05  gamma 0.0055  14.9 it/s
+ 9400 / 10000: G 2.9238  D 0.2632  R1 8.039  R2 7.699  D(x)-D(G(z)) +2.610  lr 5.13e-05  gamma 0.0054  14.9 it/s
+ 9500 / 10000: G 2.7753  D 0.3187  R1 8.071  R2 8.164  D(x)-D(G(z)) +2.114  lr 5.09e-05  gamma 0.0053  14.9 it/s
+ 9600 / 10000: G 2.8146  D 0.2852  R1 8.879  R2 8.501  D(x)-D(G(z)) +3.026  lr 5.06e-05  gamma 0.0052  14.9 it/s
+ 9700 / 10000: G 3.0650  D 0.1984  R1 8.670  R2 8.920  D(x)-D(G(z)) +3.488  lr 5.03e-05  gamma 0.0051  14.9 it/s
+ 9800 / 10000: G 2.8823  D 0.2908  R1 9.268  R2 8.696  D(x)-D(G(z)) +1.404  lr 5.01e-05  gamma 0.0050  14.9 it/s
+ 9900 / 10000: G 2.6853  D 0.2530  R1 8.827  R2 9.006  D(x)-D(G(z)) +2.801  lr 5.00e-05  gamma 0.0050  14.9 it/s
+10000 / 10000: G 2.8868  D 0.2276  R1 9.505  R2 8.776  D(x)-D(G(z)) +2.287  lr 5.00e-05  gamma 0.0050  14.9 it/s
+KID x 1000: 47.808
+{
+  "kid": 0.04780769348144531,
+  "samples": 1000
+}
+Submission: /workspace/lab-05-hhtt85.zip
+wandb: updating run metadata
+wandb: uploading media/images/samples_10000_e19d947295ef98685e9f.png; uploading media/images/final_samples_10000_6fe98f662b89b03c8ebc.png
+wandb: 
+wandb: Run history:
+wandb:          kid_x1000 ▁
+wandb:        logits/fake ███▇▇▇▇▇▆▆▆▆▆▆▆▆▆▆▆▅▅▅▄▄▄▄▃▃▃▃▂▂▂▂▂▂▂▂▁▁
+wandb:        logits/real ████▇▆▆▆▇▆▆▆▆▆▅▅▅▅▅▅▄▅▅▄▄▄▃▃▃▃▂▂▂▂▂▂▂▁▁▁
+wandb:   loss/adversarial ▃▁▁▄▆▅▇▄▄█▅▄▄▄▅▆▅▄▆▅▅▃▃▂▄▃▂▂▂▅▄▄▂▃▃▃▂▃▃▁
+wandb: loss/discriminator █▄▂▂▁▅▆▇▇▆▆▅▅█▆▆▅▆▅▆▄▅▆▅▄▄▃▅▃▄▄▄▅▃▃▃▄▄▃▃
+wandb:     loss/generator ▂▆█▅▄▂▁▂▁▁▁▂▂▂▂▄▃▃▂▄▃▃▄▃▃▄▄▄▄▄▄▄▄▄▆▄▄▃▅▄
+wandb:         penalty/r1 ▁▁▁▁▁▁▁▁▂▁▂▂▂▂▂▂▂▂▂▂▃▃▃▃▃▃▄▄▄▄▄▄▄▅▄▆▆▇▇█
+wandb:         penalty/r2 ▁▂▁▁▂▁▁▁▂▂▂▂▂▂▂▂▂▂▂▂▃▃▃▃▃▃▃▄▄▄▅▅▅▅▆▆▆▇██
+wandb:  schedule/ema_beta ▁▅▇▇▇▇██████████████████████████████████
+wandb:     schedule/gamma ███████▇▇▇▇▆▆▆▆▆▆▅▅▅▄▄▄▄▄▃▃▃▃▂▂▂▂▁▁▁▁▁▁▁
+wandb:                 +2 ...
+wandb: 
+wandb: Run summary:
+wandb:          kid_x1000 47.80769
+wandb:        logits/fake -36.85724
+wandb:        logits/real -34.57011
+wandb:   loss/adversarial 0.18193
+wandb: loss/discriminator 0.22764
+wandb:     loss/generator 2.88679
+wandb:         penalty/r1 9.50494
+wandb:         penalty/r2 8.77597
+wandb:  schedule/ema_beta 0.99557
+wandb:     schedule/gamma 0.005
+wandb:                 +2 ...
+wandb: 
+wandb: 🚀 View run upbeat-silence-2 at: https://forge.coreweave.com/wandb/yasaswi-rallabandi-durham-university/r3gan-cifar-horses/runs/55geddz1
+wandb: ⭐️ View project at: https://forge.coreweave.com/wandb/yasaswi-rallabandi-durham-university/r3gan-cifar-horses
+wandb: Synced 5 W&B file(s), 12 media file(s), 0 artifact file(s) and 0 other file(s)
+wandb: Find logs at: ./wandb/run-20261026_173057-55geddz1/logs

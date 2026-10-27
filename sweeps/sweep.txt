@@ -1,0 +1,30 @@
+lab-05-hhtt85-seed2 3802 {}
+lab-05-hhtt85-gamma-const 3801 {"final_gamma": 0.05}
+lab-05-hhtt85-gamma-0.02 3801 {"final_gamma": 0.02}
+lab-05-hhtt85-lr-1e-4 3801 {"final_learning_rate": 1e-4}
+lab-05-hhtt85-aug-0.55 3801 {"aug_p": 0.55}
+lab-05-hhtt85-beta2-ramp 3801 {"initial_beta2": 0.9}
+lab-05-hhtt85-gamma-0.002 3801 {"final_gamma": 0.002}
+lab-05-hhtt85-lr-1e-4-seed2 3802 {"final_learning_rate": 1e-4}
+lab-05-hhtt85-lr-flat 3801 {"final_learning_rate": 2e-4}
+lab-05-hhtt85-lr-1e-4-gamma-0.002 3801 {"final_learning_rate": 1e-4, "final_gamma": 0.002}
+lab-05-hhtt85-lr-flat-1.5e-4 3801 {"learning_rate": 1.5e-4, "final_learning_rate": 1.5e-4}
+lab-05-hhtt85-lr-1e-4-aug-0.3 3801 {"final_learning_rate": 1e-4, "aug_p": 0.3}
+lab-05-hhtt85-lr-flat-3e-4 3801 {"learning_rate": 3e-4, "final_learning_rate": 3e-4}
+lab-05-hhtt85-lr-flat-4e-4 3801 {"learning_rate": 4e-4, "final_learning_rate": 4e-4}
+lab-05-hhtt85-lr-flat-5e-4 3801 {"learning_rate": 5e-4, "final_learning_rate": 5e-4}
+lab-05-hhtt85-lr-flat-7.5e-4 3801 {"learning_rate": 0.00075, "final_learning_rate": 0.00075}
+lab-05-hhtt85-lr-flat-1e-3 3801 {"learning_rate": 0.001, "final_learning_rate": 0.001}
+lab-05-hhtt85-lr-flat-7.5e-4-seed2 3802 {"learning_rate": 0.00075, "final_learning_rate": 0.00075}
+lab-05-hhtt85-arch-g-heavy-lr-flat-7.5e-4 3801 {"architecture":{"latent":64,"generator_widths":[112,112,96,64],"discriminator_widths":[64,80,80,96],"generator_blocks":2,"discriminator_blocks":2,"expansion":2,"group_width":16},"final_learning_rate":0.00075,"learning_rate":0.00075}
+lab-05-hhtt85-arch-deeper-lr-flat-7.5e-4 3801 {"architecture":{"latent":64,"generator_widths":[80,80,64,48],"discriminator_widths":[48,64,80,80],"generator_blocks":3,"discriminator_blocks":3,"expansion":2,"group_width":16},"final_learning_rate":0.00075,"learning_rate":0.00075}
+lab-05-hhtt85-arch-shallow-wide-lr-flat-7.5e-4 3801 {"architecture":{"latent":64,"generator_widths":[144,144,144,96],"discriminator_widths":[96,144,144,144],"generator_blocks":1,"discriminator_blocks":1,"expansion":2,"group_width":16},"final_learning_rate":0.00075,"learning_rate":0.00075}
+lab-05-hhtt85-arch-expand3-lr-flat-7.5e-4 3801 {"architecture":{"latent":64,"generator_widths":[80,80,64,48],"discriminator_widths":[48,64,80,80],"generator_blocks":2,"discriminator_blocks":2,"expansion":3,"group_width":16},"final_learning_rate":0.00075,"learning_rate":0.00075}
+lab-05-hhtt85-arch-lowres-heavy-lr-flat-7.5e-4 3801 {"architecture":{"latent":64,"generator_widths":[128,96,64,48],"discriminator_widths":[48,64,96,128],"generator_blocks":2,"discriminator_blocks":2,"expansion":2,"group_width":16},"final_learning_rate":0.00075,"learning_rate":0.00075}
+lab-05-hhtt85-arch-deep-gheavy-lr-flat-7.5e-4 3801 {"architecture":{"latent":64,"generator_widths":[96,96,64,48],"discriminator_widths":[48,48,64,80],"generator_blocks":3,"discriminator_blocks":3,"expansion":2,"group_width":16},"learning_rate":0.00075,"final_learning_rate":0.00075}
+lab-05-hhtt85-arch-g-heavy-lr-flat-7.5e-4-noflip 3801 {"learning_rate":0.00075,"final_learning_rate":0.00075,"architecture":{"latent":64,"generator_widths":[112,112,96,64],"discriminator_widths":[64,80,80,96],"generator_blocks":2,"discriminator_blocks":2,"expansion":2,"group_width":16},"xflip":false,"ema_kimg":10.0}
+lab-05-hhtt85-arch-g-heavy-lr-flat-7.5e-4-ema-2.5k 3801 {"learning_rate":0.00075,"final_learning_rate":0.00075,"architecture":{"latent":64,"generator_widths":[112,112,96,64],"discriminator_widths":[64,80,80,96],"generator_blocks":2,"discriminator_blocks":2,"expansion":2,"group_width":16},"xflip":true,"ema_kimg":2.5}
+lab-05-hhtt85-arch-g-heavy-lr-flat-7.5e-4-ema-5k 3801 {"learning_rate":0.00075,"final_learning_rate":0.00075,"architecture":{"latent":64,"generator_widths":[112,112,96,64],"discriminator_widths":[64,80,80,96],"generator_blocks":2,"discriminator_blocks":2,"expansion":2,"group_width":16},"xflip":true,"ema_kimg":5}
+lab-05-hhtt85-arch-g-heavy-lr-flat-7.5e-4-ema-20k 3801 {"learning_rate":0.00075,"final_learning_rate":0.00075,"architecture":{"latent":64,"generator_widths":[112,112,96,64],"discriminator_widths":[64,80,80,96],"generator_blocks":2,"discriminator_blocks":2,"expansion":2,"group_width":16},"xflip":true,"ema_kimg":20}
+lab-05-hhtt85-arch-g-heavy-lr-flat-7.5e-4-ema-40k 3801 {"learning_rate":0.00075,"final_learning_rate":0.00075,"architecture":{"latent":64,"generator_widths":[112,112,96,64],"discriminator_widths":[64,80,80,96],"generator_blocks":2,"discriminator_blocks":2,"expansion":2,"group_width":16},"xflip":true,"ema_kimg":40}
+lab-05-hhtt85-arch-g-heavy-lr-flat-7.5e-4-seed2 3802 {"learning_rate":0.00075,"final_learning_rate":0.00075,"architecture":{"latent":64,"generator_widths":[112,112,96,64],"discriminator_widths":[64,80,80,96],"generator_blocks":2,"discriminator_blocks":2,"expansion":2,"group_width":16},"xflip":true,"ema_kimg":10.0}

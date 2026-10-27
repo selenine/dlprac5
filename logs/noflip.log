@@ -1,0 +1,17 @@
+lab-05-hhtt85-lr-flat-3e-4                    KID x 1000 12.312
+lab-05-hhtt85-arch-g-heavy-lr-flat-3e-4       missing
+lab-05-hhtt85-arch-deeper-lr-flat-3e-4        missing
+lab-05-hhtt85-arch-shallow-wide-lr-flat-3e-4  missing
+lab-05-hhtt85-arch-expand3-lr-flat-3e-4       missing
+lab-05-hhtt85-arch-lowres-heavy-lr-flat-3e-4  missing
+=== best: lab-05-hhtt85-lr-flat-3e-4; retraining it without x-flips
+wandb: [wandb.login()] Loaded credentials for https://api.forge.coreweave.com from /root/.netrc.
+wandb: Currently logged in as: yasaswi-rallabandi (yasaswi-rallabandi-durham-university) to https://api.forge.coreweave.com. Use `wandb login --relogin` to force relogin
+wandb: setting up run wpolo9ce
+wandb: Tracking run with wandb version 0.31.0
+wandb: Run data is saved locally in /workspace/wandb/run-20261026_221740-wpolo9ce
+wandb: Run `wandb offline` to turn off syncing.
+wandb: Syncing run absurd-gorge-27
+wandb: ⭐️ View project at https://forge.coreweave.com/wandb/yasaswi-rallabandi-durham-university/r3gan-cifar-horses
+wandb: 🚀 View run at https://forge.coreweave.com/wandb/yasaswi-rallabandi-durham-university/r3gan-cifar-horses/runs/wpolo9ce
+    1 / 10000: G 0.7786  D 0.7372  R1 0.009  R2 0.009  D(x)-D(G(z)) -0.022  lr 3.00e-04  gamma 0.0500  aug 0.000  0.3 it/s
